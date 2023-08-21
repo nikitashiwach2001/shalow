@@ -1,6 +1,6 @@
-List down all monsters in the "Desert of Mysteries" level.
-How much total gold does "Lara" have in her inventory?
-Which player(s) has/have not completed any level?
-In which levels does the "Gold" treasure appear?
-Are there any players with a strength less than the weakest monster in the "Desert of Mysteries"?
+List down all monsters in the Desert of Mysteries level
+How much total gold does Lara have in her inventory
+Which player have not completed any level
+In which levels does the "Gold" treasure appear
+Are there any players with a strength less than the weakest monster in the Desert of Mysteries
 Calculate the total value of treasures in the "Forest of Beginnings
